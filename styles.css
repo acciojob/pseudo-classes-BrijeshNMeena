@@ -1,12 +1,12 @@
 /*  your css code here. If applicable */
 *{
-	//margin: 0px;
-	//padding: 0px
+/* 	margin: 0px;
+	padding: 0px */
 }
 
-#outer{
+:root{
 	background-color: rgb(135, 206, 235);
-	padding-bottom: 100px
+/* 	padding-bottom: 100px */
 }
 #main>p:first-child{
 	background-color:black;
